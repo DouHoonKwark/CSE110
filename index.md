@@ -60,6 +60,6 @@ This is my future class list
 
 This is the end and thank you for taking a look at my page.
 
-[Click this to go back to the top](#Dou-Hoon-Kwark)
+[Click this to go back to the top](#dou-hoon-kwark)
 
 
