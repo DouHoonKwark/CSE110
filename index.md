@@ -16,7 +16,7 @@ string favorite_items = dumbells and bar
 
 Also, you can visit my [GitHub Page](https://github.com/DouHoonKwark)
 
-Since I mainly use C++, this is the website I always use [Markdown - Link](#https://cplusplus.com/)
+Since I mainly use C++, this is the website I always use [https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>](#https://cplusplus.com/)
 
 
 
