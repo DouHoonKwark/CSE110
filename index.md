@@ -16,7 +16,7 @@ string favorite_items = dumbells and bar
 
 Also, you can visit my [GitHub Page](https://github.com/DouHoonKwark)
 
-Since I mainly use C++, this is the website I always use. https://cplusplus.com/
+Since I mainly use C++, this is the website I always use [Markdown - Link](#https://cplusplus.com/)
 
 
 
@@ -38,7 +38,7 @@ And this is a ordered list of the itmes above
 This is a task list that I have at school
 - [x] Freshman
 - [x] Sophomore
-- [x] #Junior
+- [x] Junior
 - [ ] Senior :tada:
 
 
