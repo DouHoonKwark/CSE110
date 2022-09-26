@@ -6,7 +6,10 @@
 
 **Hi, this is Dou Hoon Kwark.**
 
-> I am a 4th math-cs major student.
+> You can skip to the next section by clicking [this link](#schedule)
+
+
+ I am a 4th math-cs major student.
 
 `string major = math-cs`
 
@@ -22,7 +25,12 @@ Since I always code with C++, [this website](https://cplusplus.com/) is my numbe
 
 I like trying to convert complicated ideas into simple ideas as a programmer so we can share some ideas about it some time.
 
+
+
 [this is my another md file in my repo](README.md)
+
+[If you are wondering what is in my other file](.gitignore)
+
 
 
 ## Schedule
@@ -44,6 +52,11 @@ This is a task list that I have at school
 - [x] Sophomore
 - [x] Junior
 - [ ] Senior :tada:
+
+This is my future class list
+- [ ] COGS 118A
+- [ ] MATH 189
+- [ ] MATH 181A 
 
 This is the end and thank you for taking a look at my page.
 
